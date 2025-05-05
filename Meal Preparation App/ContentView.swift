@@ -13,7 +13,7 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Test Commit for branch") //test
+            Text("Test Commit for branch") //xxx
         }
         .padding()
     }
